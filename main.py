@@ -1,3 +1,4 @@
+
 is_eligible = 18
 
 age = int(input("How old are you?"))
